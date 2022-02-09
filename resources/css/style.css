@@ -1,0 +1,147 @@
+html,body {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+body {
+    background-color: #f5f1f1;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+nav {
+    background-color:#f7f7f7;
+    border: 1px solid black;
+    padding: 15px;
+    box-shadow: 1px 3px 0px;
+    width: 100%;
+    margin: 0 auto;
+}
+.navbarlist {
+    text-align: right;
+}
+.titlebackground {
+    width: 100%;
+    height: auto;
+}
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:white;
+}
+.questions {
+    margin-top: 75px;
+    margin-bottom: 200px;
+    padding: 10px;
+}
+
+.heading+img {
+    background-color:#f6e5ed;
+    height: 400px;
+}
+.flower-group {
+    background-color:#f5f1f1;
+}
+#flower-collection {
+    background-color: #f5f1f1;
+    width: 100%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.flowerpargraph{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+    font-style:italic;
+}
+.nosection {
+    background-color: #f6e5ed;
+    width: 100%;
+    height: 150px;
+}
+.noheading {
+    color:red;
+}
+.noparagraph {
+    font-style: italic;
+}
+    footer {
+        background-color: #f7f7f7;
+    border: 1px solid black;
+    padding: 15px;
+    box-shadow: 1px 3px 0px;
+    width: 100%;
+    margin-top: -38px auto;
+    height: 100%;
+    position:static;
+    }
+    .navbar-nav {
+        word-spacing: 1.2;
+    }
+
+    .contactme {
+        background-color: #f6e5ed;
+        border: 1px solid black;
+        padding: 15px;
+        box-shadow: 1px 3px 0px;
+        margin: auto;
+        width: 430px;
+        height: 64px;
+    }
+    .yourMessage {
+        border-radius:50px;
+        width:430px;
+        border: 1px solid black;
+        box-shadow: 1px 3px 0px;
+    }
+    .emailaddress {
+        border-radius: 50px;
+        height: 40px;
+        width: 430px;
+        border: 1px solid black;
+        box-shadow: 1px 3px 0px;
+    }
+    .submit {
+        border-radius: 50px;
+        height: 40px;
+        width: 430px;
+        margin-top:20px;    
+    }
+    
+    .contactform {
+        background-color: #f5f1f1;
+        width:100%;
+        height: 600px;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+    .contactform1 {
+        padding: 50px;
+        text-align: center;
+    }
+    contactform2 {
+        text-align: center;
+    }
+
+    .aboutus {
+        background-color: #f5f1f1;
+        width: 100%;
+        height: 200px;;
+    }
+    .aboutslogan {
+        font-style: italic;
+        color: #7e39b6
+    }
+    .teamphoto {
+        width: 100%;
+        height:auto;
+        display: block;
+        background-color: #f5f1f1
+    }
+    .learnmoresection {
+        background-color: #f6e5ed
+    }
+    .carouselparagraph {
+        font-style: italic;
+    }
